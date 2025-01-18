@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello Everyone 👋
 
+• Studying Computer Science & Informatin Engineering 🖥️
+• Eager to apply academic skills practically.🍀
 <!--
 **AxxIs001/AxxIs001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
